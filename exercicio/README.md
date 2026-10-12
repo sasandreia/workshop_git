@@ -20,15 +20,14 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 
 <p align="center"><em>Badges de exemplo: remove os serviços que não usas. Não são ligações para perfis pessoais.</em></p>
 
-<h1 align="center">Olá, sou [NOME OU PSEUDÓNIMO] 👋</h1>
+<h1 align="center">Olá, sou a Andreia 👋</h1>
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 <p align="left">
-  Estudo Bioinformática e tenho curiosidade sobre [TEMA].<br>
-  🔭 Gostava de investigar [PERGUNTA SIMPLES].<br>
-  📚 Neste momento estou a aprender [ALGO QUE ESTEJAS A APRENDER].<br>
-  ⚡ Fora das aulas gosto de [ATIVIDADE OPCIONAL].
+  Sou estudante do primeiro ano do Mestrado em Bioinformática e Biologia Computacional.<br>
+  🔭 Gostava de investigar medicina de precisão.<br>
+  📚 Neste momento estou a aprender ciência de dados, bioquímica computacional e sequenciação de nova geração.<br>
 </p>
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
@@ -58,7 +57,7 @@ Ainda estou a explorar. Os ícones seguintes são **exemplos visuais**, não uma
 <h3 align="left">🔥 As minhas estatísticas</h3>
 
 Esta secção é opcional. O primeiro resultado deste workshop já é real: fiz um commit e consigo encontrá-lo com `git log --oneline -5` e no histórico do meu Fork.
-
+vrr
 ---
 
 [Voltar ao roteiro do workshop](../guia/roteiro.md)
